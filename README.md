@@ -5,7 +5,7 @@
 
 Welcome to **Drive Beyond Horizons**, the ultimate driving simulation experience that puts you in control of exploring vast open roads, breathtaking landscapes, and challenging terrains without limitations. Whether you're a casual driver seeking relaxation or a dedicated simulation enthusiast, this application redefines mobile driving games by seamlessly combining realistic physics with unrestricted exploration. 
 
-![Game Screenshot](https://private-user-images.githubusercontent.com/210736526/441339459-05ec0724-bd66-4238-a4b7-9f307c6209e4.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDcxODYwMzksIm5iZiI6MTc0NzE4NTczOSwicGF0aCI6Ii8yMTA3MzY1MjYvNDQxMzM5NDU5LTA1ZWMwNzI0LWJkNjYtNDIzOC1hNGI3LTlmMzA3YzYyMDllNC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNTE0JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDUxNFQwMTIyMTlaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT00YmFjOWU0NmE3NDZmZjg1NDRjMTRhOTlmZTA5MjY1MTJjOTAyMWEzYjEzZDIwNGQ3YjdhODU4NDljOTlkNTIzJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.tvuHnsfatpZsMfghHDUgbLBZfpMgoHMxnIrrCiVqnJI)
+![Game Screenshot](https://xyzapk.com/wp-content/uploads/2025/05/Drive-beyond-horizons-1-300x169.jpg)
 
 Immerse yourself in an expansive 3D open world built with procedurally generated terrains that ensure no two journeys are ever the same. The game features intense vehicle tuning options allowing you to customize your ride to perfection as you conquer diverse environments. 
 
